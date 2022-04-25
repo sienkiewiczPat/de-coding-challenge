@@ -1,4 +1,4 @@
-# truata-de-coding-challenge
+# de-coding-challenge
 
 ## usage
 
