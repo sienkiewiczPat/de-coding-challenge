@@ -1,0 +1,9 @@
+dist/*
+target/
+.idea/
+project/*
+.bsp/
+.history
+.cache
+*.class
+*.log
